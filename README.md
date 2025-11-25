@@ -22,7 +22,7 @@ A simple Java-based console application for managing employee payrolls: tracking
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/okayyyabhishek/employeepayrollsystemm.git
+   git clone https://github.com/saumyaarawatt/employeepayrollsystem.git
 2. Open the project in any Java IDE (IntelliJ recommended).
 3. Ensure the src/ folder is marked as Source Root.
 4. Run: Main.java
